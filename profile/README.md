@@ -1,1 +1,1 @@
-![Logo](https://github.com/Hiwder/.github/blob/main/hiwder-logo.png)
+![Logo](https://github.com/Hiwder/.github/blob/main/logo.png)
