@@ -33,6 +33,6 @@ Notes : This web app is a PWA and UI support only on mobile, please turn on your
 
 ## Tech stack
 
-Frontend -> React.js
-Backend -> Python(flask)
+Frontend -> React.js \
+Backend -> Python(flask) \
 Devops -> GCP, docker
