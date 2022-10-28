@@ -7,13 +7,13 @@ This project is part of the 10 years project organized by Thinc.
 ## Features
 
 ### Home
-![Image](https://github.com/Hiwder/.github/blob/main/app-ui/home.png =300x)
+![Logo](https://github.com/Hiwder/.github/blob/main/app-ui/home.png =300x)
 
 ### About
-![Image](https://github.com/Hiwder/.github/blob/main/app-ui/about.png =300x)
+![Logo](https://github.com/Hiwder/.github/blob/main/app-ui/about.png =300x)
 
 ### Explore
-![Image](https://github.com/Hiwder/.github/blob/main/app-ui/explore.png =300x)
+![Logo](https://github.com/Hiwder/.github/blob/main/app-ui/explore.png =300x)
 
 ### Route map
-![Image](https://github.com/Hiwder/.github/blob/main/app-ui/map%20route.png =300x)
+![Logo](https://github.com/Hiwder/.github/blob/main/app-ui/map%20route.png =300x)
