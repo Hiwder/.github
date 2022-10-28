@@ -4,6 +4,8 @@ Hiwder is an app created to meet the needs of those who want to find new restaur
 
 This project is part of the 10 years project organized by Thinc.
 
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+
 ## Features
 
 ### Home
