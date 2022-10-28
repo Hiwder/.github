@@ -16,4 +16,4 @@ This project is part of the 10 years project organized by Thinc.
 <img src="https://github.com/Hiwder/.github/blob/main/app-ui/explore.png" width="200">
 
 ### Route map
-<img src="https://github.com/Hiwder/.github/blob/main/app-ui/route%20map.png" width="200">
+<img src="https://github.com/Hiwder/.github/blob/main/app-ui/map%20route.png" width="200">
