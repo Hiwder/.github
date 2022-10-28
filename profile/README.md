@@ -14,8 +14,8 @@ Notes : This web app is a PWA and UI support only on mobile, please turn on your
 | Lable | Repository |
 | ------------- | ------------- |
 | Presentation | [Click here!](https://github.com/Hiwder/hiwder-presentation) |
-| Front-end  | [Click here!](https://github.com/Hiwder/hiwder-frontend) |
-| Back-end  | [Click here!](https://github.com/Hiwder/hiwder-backend)|
+| Frontend  | [Click here!](https://github.com/Hiwder/hiwder-frontend) |
+| Backend  | [Click here!](https://github.com/Hiwder/hiwder-backend)|
 
 ## Features
 
@@ -30,3 +30,9 @@ Notes : This web app is a PWA and UI support only on mobile, please turn on your
 
 ### Route map
 <img src="https://github.com/Hiwder/.github/blob/main/app-ui/map%20route.png" width="200">
+
+## Tech stack
+
+Frontend -> React.js
+Backend -> Python(flask)
+Devops -> GCP, docker
