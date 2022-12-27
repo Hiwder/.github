@@ -44,6 +44,7 @@ Notes : This web app is a [PWA](https://medium.com/@blockchain_simplified/what-i
 
 ## Tech stack
 
-**Frontend:** React.js \
-**Backend:**  Python(flask) \
-**Devops:**  GCP, docker
+**Frontend:** <img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /> \
+**Backend:**  <img height="30" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" /> \
+**Devops:**  <img height="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />
+<img height="30" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP" />
